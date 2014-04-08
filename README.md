@@ -3,6 +3,8 @@ imgCrop.js
 
 Responsive Image Cropping Tool
 
+\*\* jQuery Required \*\*
+
 This tool is designed to stop scaling an image and start cropping off the sides, maintaining the height and responsive width.
 <br>
 <a href="http://benjaminhendric.com/imgCrop/cropDemo.html">View Cat Demo</a>
