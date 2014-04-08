@@ -12,8 +12,8 @@ This tool is designed to stop scaling an image and start cropping off the sides,
 
 <h3>Download</h3>
 <ul>
-  <li><a href="https://raw.githubusercontent.com/brhendr/imgCrop/master/imgCrop.js">imgCrop.js</a></li>
-  <li><a href="https://raw.githubusercontent.com/brhendr/imgCrop/master/build/imgCrop.min.js">imgCrop.min.js</a></li>
+  <li><a href="https://raw.githubusercontent.com/brhendr/imgCrop/master/imgCrop.js">imgCrop.js</a> (3kb)</li>
+  <li><a href="https://raw.githubusercontent.com/brhendr/imgCrop/master/build/imgCrop.min.js">imgCrop.min.js</a> (1kb)</li>
 </ul>
 <h3>Usage</h3>
 <h5>HTML</h5>
