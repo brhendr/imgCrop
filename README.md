@@ -7,8 +7,8 @@ Responsive Image Cropping Tool
 
 This tool is designed to stop scaling an image and start cropping off the sides, maintaining the height and responsive width.
 <br>
-<a href="http://benjaminhendric.com/imgCrop/cropDemo.html">View Demo Page</a><br>
-<a href="http://codepen.io/ben10886/pen/uhKep">Codepen Demo (plus cats)</a>
+<a target="_blank" href="http://benjaminhendric.com/imgCrop/cropDemo.html">View Demo Page</a><br>
+<a target="_blank" href="http://codepen.io/ben10886/pen/uhKep">Codepen Demo (plus cats)</a>
 
 <h3>Download</h3>
 <ul>
