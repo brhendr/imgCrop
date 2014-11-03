@@ -1,7 +1,7 @@
 imgCrop.js
 =======
 
-Responsive Image Cropping Tool
+Responsive Image Cropping Tool. Change the focal point of an image in respect to screen size.
 
 \*\* jQuery Required \*\*
 
